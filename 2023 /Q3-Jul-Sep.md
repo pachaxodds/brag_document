@@ -1,12 +1,12 @@
 # [Quarter 3/4 of 2023] July - September 2023
-Onsite พบลูกค้าศักดิ์สยามครั้งแรกที่ จ.อุตรดิตถ์
+Met the Sak Siam for the first time on-site in Uttaradit.
 
 # 🎯 Goals for this quarter
-👉🏻 เข้าใจเรื่อง Data
+👉🏻 Understand Data concepts
 
 # 📚 What I learned
 🚀 Airflow<br />
-✅ การ sync ข้อมูล และรัน dags บน Airflow
+✅ Data synchronization and running dags on Airflow
 
 # 🎤 Class & Conference
 ✍🏻 SEO Training @Maruay Garden Hotel<br />
