@@ -1,5 +1,5 @@
 # [Quarter 2/4 of 2023] April - June 2023
-April is the first month of working at Sak Siam site, which is nicknamed (by P'Roof) as LeSS Uttaradit. Everything used in working at this site is something I have to learn "from scratch." This quarter is therefore a big challenge for me.
+April is the first month of working at Sak Siam site, which is nicknamed (by P'Roof) as LeSS Uttaradit. Everything used in working at this site is something I have to learn "from scratch" This quarter is therefore a big challenge for me
 
 # 🎯 Goals for this quarter
 👉🏻 Understand LeSS working methodology<br />
