@@ -1,32 +1,32 @@
 # [Quarter 2/4 of 2023] April - June 2023
-April คือเดือนแรกของการเข้ามาทำงานใน Site Sak Siam ซึ่งถูกขนานนาม (จากพี่รูฟ) ว่าเป็น LeSS อุตรดิตถ์ และสิ่งที่ใช้ในการทำงานใน site นี้เป็นสิ่งที่ผมต้องมาเรียนรู้ใหม่ "ทั้งหมด" ใน Quarter นี้จึงเป็นความท้าทายครั้งใหญ่สำหรับผม
+April is the first month of working at Sak Siam site, which is nicknamed (by P'Roof) as LeSS Uttaradit. Everything used in working at this site is something I have to learn "from scratch." This quarter is therefore a big challenge for me.
 
 # 🎯 Goals for this quarter
-👉🏻 เข้าใจการทำงานแบบ LeSS
-👉🏻 เรียนรู้โปรเจคของ Sak Siam
-👉🏻 Flow ของ Web และ App ของ Sak Siam
-👉🏻 API ต่างๆ
+👉🏻 Understand LeSS working methodology
+👉🏻 Learn about Sak Siam projects
+👉🏻 Understand the flow of Sak Siam's web and app
+👉🏻 Various APIs
 
 # 📚 What I learned
 🚀 Large Scale Scrum
-การทำ Scrum แบบ Sak Siam โดยมี Sprint ละ 1 สัปดาห์
-✅ Daily ทุกเช้า 09:15 น.
-✅ Planning ทุกวันจันทร์ 10:00 น.
-✅ Refinement ทุกวันพุธ 10:00 น.
-✅ Review ทุกวันศุกร์ 10:00 น.
-✅ Retrospective ทุกวันศุกร์หลัง Review
+Implementing Scrum in Sak Siam with a one-week sprint.
+✅ Daily stand-ups every morning at 9:15
+✅ Planning every Monday at 10:00
+✅ Refinement every Wednesday at 10:00
+✅ Review every Friday at 10:00
+✅ Retrospective after the Review every Friday.
 
-🚀 การ run โปรเจคต่างๆ ใน Localhost, Dev และ UAT
-Run ขึ้นมาเพื่อทดสอบ Flow ของโปรเจค Web และ App ต่างๆ ทั้ง
+🚀 Running projects on Localhost, Dev, and UAT environments
+Running projects to test the flow of various web and app projects, including:
 ✅ SAK North Star
 ✅ SAK Money
 ✅ SAK Payment
 
-🚀 โปรแกรมที่จำเป็น
-✅ Docker สำหรับ run BE โปรเจค
-✅ Postman สำหรับยิง API ทดสอบ
-✅ Swagger สำหรับดู spec API
-✅ MongoDB สำหรับดู Database
+🚀 Necessary programs
+✅ Docker for running backend projects
+✅ Postman for testing APIs
+✅ Swagger for viewing API specifications
+✅ MongoDB for viewing the database
 
 # 🎤 Class & Conference
 ✍🏻 Flutter Class
