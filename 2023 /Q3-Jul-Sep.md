@@ -1,13 +1,15 @@
 # [Quarter 3/4 of 2023] July - September 2023
-xxx
+Onsite พบลูกค้าศักดิ์สยามครั้งแรกที่ จ.อุตรดิตถ์
 
 # 🎯 Goals for this quarter
-👉🏻 xxx
+👉🏻 เข้าใจเรื่อง Data
 
 # 📚 What I learned
-🚀 xxx
-✅ xxx
+🚀 Airflow<br />
+✅ การ sync ข้อมูล และรัน dags บน Airflow
 
 # 🎤 Class & Conference
-✍🏻 xxx
+✍🏻 SEO Training @Maruay Garden Hotel<br />
+xxx<br />
+✍🏻 The 7 habits of highly effective people @Geeky Base<br />
 xxx
