@@ -15,11 +15,13 @@ Implementing Scrum in Sak Siam with a one-week sprint<br />
 ✅ Refinement every Wednesday at 10:00<br />
 ✅ Review every Friday at 10:00<br />
 ✅ Retrospective after the Review every Friday<br />
+
 🚀 Running projects on Localhost, Dev, and UAT environments<br />
 Running projects to test the flow of various web and app projects, including:<br />
 ✅ SAK North Star<br />
 ✅ SAK Money<br />
 ✅ SAK Payment<br />
+
 🚀 Necessary programs<br />
 ✅ Docker for running backend projects<br />
 ✅ Postman for testing APIs<br />
@@ -29,8 +31,10 @@ Running projects to test the flow of various web and app projects, including:<br
 # 🎤 Class & Conference
 ✍🏻 Flutter Class @Geeky Base<br />
 Basic Dart & Flutter by P'Ball & P'Tar<br />
+
 ✍🏻 Non-Violence Communication @Maruay Garden Hotel<br />
 by P'Jua<br />
+
 ✍🏻 Agile Thailand 2023 @True Digital Park<br />
 🎙️ Agile Zoo - How to work with difference kind of people by K'Peach PALO IT<br />
 🎙️ How to find a true Product Owner by P'Jane ODD-E<br />
