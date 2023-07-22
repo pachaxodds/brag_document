@@ -6,10 +6,10 @@ Met the Sak Siam for the first time on-site in Uttaradit.
 
 # 📚 What I learned
 🚀 Airflow<br />
-✅ Data synchronization and running dags on Airflow
+✅ Data synchronization and running dags on Airflow<br />
+🚀 SQL<br />
+✅<br />
 
 # 🎤 Class & Conference
-✍🏻 SEO Training @Maruay Garden Hotel<br />
-xxx<br />
 ✍🏻 The 7 habits of highly effective people @Geeky Base<br />
 xxx
