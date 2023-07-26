@@ -10,7 +10,7 @@ Met the Sak Siam for the first time on-site in Uttaradit.
 🚀 SQL<br />
 ✅ Basic SQL, Query writing<br />
 🚀 Deployment<br />
- How to Deploy from environment DEV to UAT and PRODUCTION<br />
+✅ How to Deploy from environment DEV to UAT and PRODUCTION<br />
 🚀 Cherry Pick🍒<br />
 ✅ First time use git cherry-pick<br />
 
