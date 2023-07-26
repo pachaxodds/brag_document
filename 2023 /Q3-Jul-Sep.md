@@ -8,7 +8,7 @@ Met the Sak Siam for the first time on-site in Uttaradit.
 🚀 Airflow<br />
 ✅ Data synchronization and running dags on Airflow<br />
 🚀 SQL<br />
-✅<br />Basic SQL, Query writing
+✅ Basic SQL, Query writing<br />
 🚀 Deployment<br />
 ✅ How to Deploy from environment DEV to UAT and PRODUCTION<br />
 🚀 Cherry Pick🍒<br />
